@@ -31,7 +31,7 @@ module NavigationHelpers
 
     when /^the Similar Movies page for "(.*)"/
       m = Movie.find_by_title($1)
-      find_movies_by_director_path(m.id,m.director)
+      find_movies_by_director_path(m.id)
 
     else
       begin

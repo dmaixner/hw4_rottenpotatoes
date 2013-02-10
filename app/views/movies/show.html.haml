@@ -18,8 +18,7 @@
 %p#description= @movie.description
 
 = link_to 'Edit', edit_movie_path(@movie)
-- if @movie.director
-  = link_to 'Find Movies With Same Director', find_movies_by_director_path(:id=>@movie.id,:director=>@movie.director)
+= link_to 'Find Movies With Same Director', find_movies_by_director_path(:id=>@movie.id)
 - if @movies
   - @movies.each do |movie|
     = movie.title

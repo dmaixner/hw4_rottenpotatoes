@@ -37,7 +37,7 @@ class MoviesController < ApplicationController
   end
 
   def find_movies_by_director
-    @movies = Movie.find_movies_by_director(params[:director])
+    @movies = Movie.find_movies_by_director(params[:id])
     @movie = Movie.find params[:id]
     render 'show'
   end
