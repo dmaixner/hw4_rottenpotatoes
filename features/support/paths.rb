@@ -25,6 +25,10 @@ module NavigationHelpers
       m = Movie.find_by_title($1)
       edit_movie_path(m)
 
+    when /^the details page for "(.*)"/
+      m = Movie.find_by_title($1)
+      movie_path(m)
+
     else
       begin
         page_name =~ /^the (.*) page$/
