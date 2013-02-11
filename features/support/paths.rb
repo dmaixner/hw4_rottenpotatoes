@@ -13,6 +13,8 @@ module NavigationHelpers
   def path_to(page_name)
     case page_name
 
+    when /^the (RottenPotatoes )?home\s?page$/ then '/movies'
+    when /^the movies page$/ then '/movies'
     when /^the home\s?page$/
       movies_path
 #'/movies'

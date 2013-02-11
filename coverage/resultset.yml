@@ -1,0 +1,215 @@
+--- 
+RSpec: 
+  :original_result: 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/controllers/application_controller.rb: 
+    - 1
+    - 1
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/helpers/application_helper.rb: 
+    - 1
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/helpers/movies_helper.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/controllers/movies_controller.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 1
+    - 4
+    - 4
+    - 4
+    - 3
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/models/movie.rb: 
+    - 1
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+  :created_at: 2013-02-11 12:42:23.126980 -08:00
+Cucumber Features: 
+  :original_result: 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/controllers/application_controller.rb: 
+    - 1
+    - 1
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/helpers/application_helper.rb: 
+    - 1
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/helpers/movies_helper.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/controllers/movies_controller.rb: 
+    - 1
+    - 
+    - 1
+    - 4
+    - 4
+    - 
+    - 
+    - 
+    - 1
+    - 22
+    - 22
+    - 
+    - 3
+    - 
+    - 3
+    - 
+    - 22
+    - 22
+    - 
+    - 22
+    - 60
+    - 
+    - 
+    - 22
+    - 2
+    - 2
+    - 2
+    - 
+    - 
+    - 20
+    - 5
+    - 5
+    - 5
+    - 5
+    - 
+    - 15
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 1
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    /media/win-dev/homeworks/hw4_rottenpotatoes/app/models/movie.rb: 
+    - 1
+    - 1
+    - 22
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 
+    - 
+  :created_at: 2013-02-11 12:41:42.175940 -08:00
